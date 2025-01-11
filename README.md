@@ -73,12 +73,8 @@ jupyter notebook
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
 
-Project Link: [https://github.com/yourusername/movie-recommendation-system](https://github.com/yourusername/movie-recommendation-system)
+Project Link: [https://github.com/vyshnavi-12/YBI-Foundation-Internships](https://github.com/vyshnavi-12/YBI-Foundation-Internships)
