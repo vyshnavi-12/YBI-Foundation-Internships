@@ -75,4 +75,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Sri Vyshnavi - [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
+- GitHub: [@vyshnavi-12](https://github.com/vyshnavi-12)
+- LinkedIn: [@sri-vyshnavi-nakka](https://www.linkedin.com/in/sri-vyshnavi-nakka-38136428b/)
+- Email: [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
+
+## Support 🙋‍♂️
+
+If you have any questions or need help, please open an issue in the repository.
+
+---
+Made with ❤️ by Sri Vyshnavi
