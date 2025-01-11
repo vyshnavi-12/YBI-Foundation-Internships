@@ -75,4 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
+Sri Vyshnavi - [srivyshnavinakka@gmail.com](mailto:srivyshnavinakka@gmail.com)
