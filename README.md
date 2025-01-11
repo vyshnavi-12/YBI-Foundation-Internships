@@ -84,4 +84,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 If you have any questions or need help, please open an issue in the repository.
 
 ---
-Made with ❤️ by Sri Vyshnavi
+Made by Sri Vyshnavi
